@@ -1,5 +1,7 @@
 #sshkey_utilities
 
+[![Build Status](https://travis-ci.org/bobtfish/puppet-sshkey_utilities.png)
+
 ####Table of Contents
 
 1. [Overview](#overview)
