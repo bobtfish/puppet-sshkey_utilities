@@ -1,5 +1,5 @@
 name          'bobtfish-sshkey_utilities'
-version       '0.0.1'
+version       '0.0.2'
 source        'UNKNOWN'
 author        'Tomas Doran <bobtfish@bobtfish.net>'
 license       'Apache License, Version 2.0'
