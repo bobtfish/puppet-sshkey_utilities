@@ -51,7 +51,9 @@ Here, list the classes, types, providers, facts, etc contained in your module. T
 
 ##Limitations
 
-This is where you list OS compatibility, version compatibility, etc.
+This module should be compatible with any POSIX system which ships a 'setsid' command.
+
+If your unix doesn't (*cough*Apple*cough*) then see here: https://github.com/jerrykuch/ersatz-setsid
 
 ##Development
 
