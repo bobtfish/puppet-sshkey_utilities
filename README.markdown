@@ -1,6 +1,6 @@
 #sshkey_utilities
 
-[![Build Status](https://travis-ci.org/bobtfish/puppet-sshkey_utilities.png)
+[![Build Status](https://travis-ci.org/bobtfish/puppet-sshkey_utilities.png)](https://travis-ci.org/bobtfish/puppet-sshkey_utilities)
 
 ####Table of Contents
 
